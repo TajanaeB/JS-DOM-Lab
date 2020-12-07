@@ -1,0 +1,106 @@
+#box {
+    width: 600px;
+    border: solid black 2px;
+    height: 300px;
+}
+
+.dropdown {
+    float: left;
+    margin-top: 65px;
+    margin-left: 40px;
+}
+
+.degree {
+    float: center;
+}
+
+.calculate {
+    float: right;
+    margin-right: 80px;
+    margin-bottom: 100px;
+    margin-top: -135px;
+}
+
+
+#textbox {
+    margin-left: 100px;
+    margin-top: -40px;
+    width: 130px;
+    height: 25px;
+    border: solid black 2px;
+}
+
+.value {
+    margin-left: 260px;
+}
+
+#scale {
+    margin-left: -60px;
+    float: left;
+
+}
+
+
+
+.h1 {
+    margin-left: 60px;
+}
+
+
+#fahrenheit {
+    margin-left: 60px;
+    font-weight: bold;
+    margin-top: -15px;
+}
+
+
+#outputF {
+    margin-left: 60px;
+    margin-top: -15px;
+}
+
+#celsius {
+    margin-left: 200px;
+    font-weight: bold;
+    margin-top: -35px;
+}
+
+#outputC {
+    margin-left: 190px;
+    margin-top: -10px;
+}
+
+#kelvin {
+    margin-right: 250px;
+    font-weight: bold;
+    margin-top: -50px;
+    float: right;
+}
+
+#outputK {
+    margin-right: 250px;
+    margin-top: -19px;
+    float: right;
+}
+
+#rankine {
+    margin-left: 440px;
+    font-weight: bold;
+    margin-top: -45px;
+}
+
+#outputR {
+   margin-right: -190px;
+    margin-top: -20px;
+    float: right;
+}
+
+#button {
+    display: inherit;
+    margin-left: 12%;
+    background-color: #9cbdf0;
+}
+ 
+
+
+
